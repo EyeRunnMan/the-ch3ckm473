@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C19H3R" alt="C19H3R" /></p>
 
 
+## chanded my username from "c19h3r" to "the-ch3ckm473" workinng onn fixing some links which might be broken now
+
 - 🌱 I’m currently learning **Fullstack Development**
 
 <h4>Stack I work with</h4>
